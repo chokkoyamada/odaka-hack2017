@@ -99,7 +99,7 @@ h1, h2, h3, h4, h5, h6, figure {
   }
 }
 .fh5co-nav #fh5co-logo {
-  font-size: 20px;
+  font-size: 25px;
   margin: 0;
   padding: 0;
   text-transform: uppercase;
@@ -226,7 +226,7 @@ h1, h2, h3, h4, h5, h6, figure {
 #fh5co-counter,
 .fh5co-bg {
   background-size: cover;
-  background-position: top center;
+  background-position: center center;
   background-repeat: no-repeat;
   position: relative;
 }
@@ -318,7 +318,7 @@ h1, h2, h3, h4, h5, h6, figure {
   background: -webkit-linear-gradient(-45deg, #ff5db1 0%, rgba(0, 87, 137, 0.7) 100%);
   background: -o-linear-gradient(-45deg, #ff5db1 0%, rgba(0, 87, 137, 0.7) 100%);
   background: -ms-linear-gradient(-45deg, #ff5db1 0%, rgba(0, 87, 137, 0.7) 100%);
-  background: linear-gradient(135deg, #ff5db1 0%, rgba(0, 87, 137, 0.7) 100%);
+  background: linear-gradient(135deg, rgba(255, 93, 177, 0.7) 0%, rgba(0, 87, 137, 0.7) 100%);
   filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ff5db1', endColorstr='#005789', GradientType=1 );
 }
 .fh5co-cover > .fh5co-container {
